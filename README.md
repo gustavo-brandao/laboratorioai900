@@ -6,11 +6,9 @@ Desafio de projeto Azure Machine Learning
   Modelo de previsão Machine Learning para desafio de projeto</span>  
 </h1>
 
-Esse modelo de previsão foi criado e treinado com um conjunto de dados de alugueis de bicicletas que prevê um número de alugueis para um determinado dia.
+Esse modelo de previsão foi criado e treinado com um conjunto de dados de alugueis de bicicletas.
 
-
-<span>As orientações a seguir estão em </span> https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
-   
+ 
 <h2> Criar espaço de trabalho:</h2>
 Após acessar o portal https://portal.azure.com  com suas credenciais é necessário criar um espaço de trabalho.
 
